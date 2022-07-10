@@ -1,0 +1,5 @@
+1. Program should generate a random inspirational message upon start.
+
+2. Should give user option to exit program, or generate another random message.
+
+3. A collection of random messages will be stored in an array of strings. 
