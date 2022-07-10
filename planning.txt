@@ -2,6 +2,4 @@
 
 2. Should give user option to exit program, or generate another random message.
 
-3. A collection of 10 positive words will be stored in an array of strings, and will be used to generate a random message using 3 distinct words in the message. 
-
-4. The random inspirational words will be used as arguments for a randomly generated message from a collection of 10 sentences, so that there will be 1200 unique combinations of messages possible. 
+3. A collection of 10 inspirational quotes will be stored as objects with a message value containing the quote, and an author value containing the author name, as well as an object number which will be used in the random generation process. 
