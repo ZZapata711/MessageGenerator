@@ -12,10 +12,18 @@ const mainLoop = () => {
         const option = prompt('Would you like to see another quote? (y/n): ');
         switch (option.toLocaleLowerCase()) {
             case ('y'):
+                // Need to check if quote list is not empty
                 let quote = generator.generateQuote();
-                let message = `${quote.quote} - ${quote.author}`;
-                console.log(message);
-                continue;
+                if (quote === null) {
+                    console.log('Sorry, you have already read all our available quotes for the day.');
+                    loop = false;
+                    break;
+                }
+                else {
+                    let message = `${quote.quote} - ${quote.author}`;
+                    console.log(message);
+                    continue;
+                }
             case ('n'):
                 loop = false;
                 break;
