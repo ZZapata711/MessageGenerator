@@ -1,43 +1,43 @@
 const quotes = [
     {
-        author: "test",
-        quote: "test"
+        quote: "Be yourself; everyone else is already taken.",
+        author: "Oscar Wilde"
     },
     {
-        author: "test",
-        quote: "test"
+        quote: "Be the change that you wish to see in the world.",
+        author: "Mahatma Gandhi"
     },
     {
-        author: "test",
-        quote: "test"
+        quote: "Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that.",
+        author: "Martin Luther King Jr."
     },
     {
-        author: "test",
-        quote: "test"
+        quote: "There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.",
+        author: "Albert Einstein"
     },
     {
-        author: "test",
-        quote: "test"
+        quote: "I have not failed. I've just found 10,000 ways that won't work.",
+        author: "Thomas A. Edison"
     },
     {
-        author: "test",
-        quote: "test"
+        quote: "I am enough of an artist to draw freely upon my imagination. Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world.",
+        author: "Albert Einstein"
     },
     {
-        author: "test",
-        quote: "test"
+        quote: "It is never too late to be what you might have been.",
+        author: "George Eliot"
     },
     {
-        author: "test",
-        quote: "test"
+        quote: "Everything you can imagine is real.",
+        author: "Pablo Picasso"
     },
     {
-        author: "test",
-        quote: "test"
+        quote: "Do what you can, with what you have, where you are.",
+        author: "Theodore Roosevelt"
     },
     {
-        author: "test",
-        quote: "test"
+        quote: "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+        author: "Winston S. Churchill"
     }
 ]
 
